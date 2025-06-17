@@ -47,7 +47,7 @@
 - **Purpose**: Determines which debt indicator is most widely applicable across countries.
 - **Finding**: The top indicator (likely a broad metric such as total principal repayments or disbursements) is reported by many countries, reflecting its widespread applicability.
 
-## 8. Key Debt Trends
+## 8. Additional Trends
 ### a. Countries with the Highest New Disbursements
 - **Logic**: Filtered for the indicator representing new funds received from long-term external debt, summed debt by country, excluded nulls and empty country names, and listed the top five countries.
 - **Purpose**: Identifies countries receiving the most new debt, indicating high borrowing activity.
