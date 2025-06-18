@@ -45,7 +45,7 @@
 ## 7. Most Common Debt Indicator
 - **Logic**: Grouped by `indicator_name`, counted unique countries per indicator, and identified the indicator reported by the most countries.
 - **Purpose**: Determines which debt indicator is most widely applicable across countries.
-- **Finding**: The top indicator (PPG, official creditors (AMT, current US$) which are principal repayments on debt owed to official creditors ) is reported by many countries, reflecting its widespread applicability.
+- **Finding**: The top indicator (PPG, official creditors (AMT, current US$) which are principal repayments on debt owed to official creditors ) is reported by many countries(109), reflecting its widespread applicability.
 
 ## 8. Additional Trends
 ### a. Countries with the Highest New Disbursements
